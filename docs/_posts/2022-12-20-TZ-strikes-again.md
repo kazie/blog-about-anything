@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: `tz` strikes again
 published: true
 ---
 
