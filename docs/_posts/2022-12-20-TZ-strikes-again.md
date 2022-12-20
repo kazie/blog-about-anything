@@ -59,19 +59,24 @@ So, the live show was on the television channel of [TV Asahi (テレビ朝日)](
 
 No, that's silly! A __buy__ button? For the __specific thing you want to watch__? Who would design a system like that!
 
-Here you buy _token currencies_, or as we sometimes call it jokingly in Swedish, (smurfbär)[https://www.aftonbladet.se/nyheter/a/J1lvwP/barnens-ipad-spel-kostade-50-000-kr] as there was early many parents that noticed their wallets getting emptied by their children playing games on their early Apple devices.
+Here you buy _token currencies_, or as we sometimes call it jokingly in Swedish [smurfbär](https://www.aftonbladet.se/nyheter/a/J1lvwP/barnens-ipad-spel-kostade-50-000-kr),
+as there was early many parents that noticed their wallets getting emptied by their children playing games on their early Apple devices.
 
 So, to buy my live show, I need to spend `580` "coins", and in order to buy said amount of coins. I can buy the exact amount of needed coins right? ... Well, sorta?
+
+![](./img/shop.png)
+
 In order to acquire `580` coins exactly, I need to buy:
 
 - 250 coins _monthly plan(月額チャージ)_
 - 300 coins
 - 30 coins
 
-By buying the monthly plan, I saved ¥550, but I had to make sure that I cancel the monthly subscription.
+By buying the monthly plan, I saved ¥550 💹, but I had to make sure that I cancel the monthly subscription.
 
 _Gee_, one need to do **math** in order to save money, by not buying an excessive amount of coins, as well as understand things in order to cancel a subscription I didn't want.
 
+> I needed to convert my Swedish Money `SEK` to Japanese ones `YEN` in order to buy pretend tokens 🪙, in three separate transactions, in order to buy an online ticket. 🤦
 
 ### Time of the Live
 
