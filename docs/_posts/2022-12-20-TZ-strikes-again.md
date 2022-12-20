@@ -13,13 +13,15 @@ and sometimes even the fabric of time itself, always somehow seem to put a dent 
 
 Some day, I hope my talk that I am building around it may be spread and known - just to minimize the amount of these kinds of bugs that I really can live without.
 
-## Just a normal weekend.
+## Just a "normal" weekend.
 
-What do you like to do on weekends?
+> What do you like to do on weekends?
 
 I guess most of us want to have a good time, and recharge our batteries, and that's what I was set to do.
 
-On Sunday morning, I was going to see an [Japanese ライブ](https://en.wiktionary.org/wiki/%E3%83%A9%E3%82%A4%E3%83%96), a live show starring some live streamers from a franchise I really like.
+On Sunday morning, I was going to see a ["raibu" (ライブ)](https://en.wiktionary.org/wiki/%E3%83%A9%E3%82%A4%E3%83%96), a Japanese live show starring some live streamers from a franchise I really like.
+
+![](./img/kf1st.jpg)
 
 It was their first live event, and I was really excited and happy - although I knew that I had to jump through a few hoops in order to see this show.
 Because _of course_ the show itself is behind both a <u>paywall</u>, and is <u>region locked</u>.
@@ -80,6 +82,7 @@ I used my VPN, which also was needed to buy my ticket, and came to a page where 
 The clock was ticking down to the show, and I saw the Japanese people starting to chat about sudden background music (`BGM`).
 
 >  _Huh? There is no pre-video or BGM?_
+
 I was thinking to myself, but I kept  waiting, and waiting.
 And I see as I realise that the show has __started__, but __I__ could see nothing - just the live chat and excited people social media!!
 
