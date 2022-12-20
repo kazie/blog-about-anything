@@ -111,8 +111,9 @@ But maybe, since it has a live archive until the 9'th of January, I may find a s
 
 Yeah, it was a localization bug that had struck me...
 
-Apparently the Japanese web-code was checking what _time_ it was. This by extracting the __local__ date and time, and with this information it decided:  
-_Oh, you're early to the event, this event starts at `18:30` but it is currently `10:30`, no need to load the video platform for this video yet!_
+Apparently the Japanese web-code was checking what _time_ it was. This by extracting the __local__ date and time, and with this information it decided:
+
+> > Oh, you're early to the event, this event starts at `18:30` but it is currently `10:30`, no need to load the video platform for this video yet!
 
 So I got to try that if I set the `tz` to `Asia/Tokyo`, on my computer (or Smartphone), I would have been able to watch it live, as this fix was still required to watch the archive afterwards.
 
@@ -122,4 +123,3 @@ I swear, that I will never stop my fight to help and educate and spread the word
 
 But at least my weekend didn't get ruined, as I did get to see the show, and it was just as well worth all of this wild ride.
 As I did get to watch the event, before it is maybe lost through the sands of time.
-
