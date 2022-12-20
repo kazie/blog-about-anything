@@ -1,5 +1,5 @@
 ---
-title: `tz` strikes again
+title: tz strikes again
 published: true
 ---
 
