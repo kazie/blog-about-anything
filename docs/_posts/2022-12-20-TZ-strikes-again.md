@@ -40,7 +40,7 @@ One such tool is [`Tor`](https://en.wikipedia.org/wiki/Tor_(network)), which is 
 But it may not be perfect for throughput, and if I want to watch a live-stream with video and sound - I chose to take another approach.
 
 The other tool I am thinking of is `VPN`, which encrypts your traffic and exits from specific, often paid servers around the world.
-These ones may be blocked though by streaming services, and I think many big operators are working around it by playing some kind of cat and mouse chaise. 🐭💨🐱
+These ones may be blocked though by streaming services, and I think many big operators are working around it by playing some kind of cat and mouse game. 🐭💨🐱
 
 And when it comes to __VPN__, you can probably seen endless commercials from social media about some services, be it _fast_ or _north_ or some other kind of naming, they most have the same kind of business strategies.
 Long term subscriptions, and huge deals, making you commit for them. One has to subscribe with an email address or other personal information, and probably gather and sell it themselves, since if you're using their service, they could just as well be as bad as they are trying to make your ISP out to be.
@@ -53,12 +53,65 @@ No marketing or campaigning, just want to deliver a good service, which __could_
 > So, you thought it would be __easy__ buying some tickets for a live that you wanted to watch?  
 > _Think again!_
 
+So, the live show was on the television channel of [TV Asahi (テレビ朝日)](https://en.wikipedia.org/wiki/TV_Asahi). And as they're somewhat modern enough, one would guess that the show I wanted to watch would simply have a "buy" button maybe?
+
+No, that's silly! A __buy__ button? For the __specific thing you want to watch__? Who would design a system like that!
+
+Here you buy _token currencies_, or as we sometimes call it jokingly in Swedish, (smurfbär)[https://www.aftonbladet.se/nyheter/a/J1lvwP/barnens-ipad-spel-kostade-50-000-kr] as there was early many parents that noticed their wallets getting emptied by their children playing games on their early Apple devices.
+
+So, to buy my live show, I need to spend `580` "coins", and in order to buy said amount of coins. I can buy the exact amount of needed coins right? ... Well, sorta?
+In order to acquire `580` coins exactly, I need to buy:
+
+- 250 coins _monthly plan(月額チャージ)_
+- 300 coins
+- 30 coins
+
+By buying the monthly plan, I saved ¥550, but I had to make sure that I cancel the monthly subscription.
+
+_Gee_, one need to do **math** in order to save money, by not buying an excessive amount of coins, as well as understand things in order to cancel a subscription I didn't want.
 
 
 ### Time of the Live
 
+It was Sunday, I woke up, happy and excited for the  2 hours live show.
+
+I used my VPN, which also was needed to buy my ticket, and came to a page where there was a live chat with other excited, although overwhelmingly Japanese audience.
+
+The clock was ticking down to the show, and I saw the Japanese people starting to chat about sudden background music (`BGM`).
+
+>  _Huh? There is no pre-video or BGM?_
+I was thinking to myself, but I kept  waiting, and waiting.
+And I see as I realise that the show has __started__, but __I__ could see nothing - just the live chat and excited people social media!!
+
 #### Pain
+
+> Can it be that my Mullvad is blocked?
+
+In panic I tried to buy one of those horrible, shitty VPN's, to no avail. Of course their code doesn't work well on _LINUX_.
+
+As a backup I tried my phone, since installing their `app` is easier, although it was still painful to get it to work - I got to the page, and same, nothing, __there is no video__.
+
+What can I say, I was kind of overwhelmed with distress and emotions. Why didn't it work? I could __buy__ the service, but I cannot __watch__ it, what a load of _B\*llsh\*t_!! 😭
+
+But maybe, since it has a live archive until the 9'th of January, I may find a solution somehow - but now my day was ruined, and I did not experience the __live__ part of the live-event.
 
 ### What was wrong?
 
+👆 Well, remember the title of this blog-post up above? 👆
+
+> Date & time bugs, strikes again. 😱
+
+Yeah, it was a localization bug that had struck me...
+
+Apparently the Japanese web-code was checking what _time_ it was. This by extracting the __local__ date and time, and with this information it decided:  
+_Oh, you're early to the event, this event starts at `18:30` but it is currently `10:30`, no need to load the video platform for this video yet!_
+
+So I got to try that if I set the `tz` to `Asia/Tokyo`, on my computer (or Smartphone), I would have been able to watch it live, as this fix was still required to watch the archive afterwards.
+
+Here I am today. I got __burned__ by yet another date-time bug, and this time it gave me personal distress and some temporary emotional damage.
+But I am thus also a bit wiser.
+I swear, that I will never stop my fight to help and educate and spread the word of these problems.
+
+But at least my weekend didn't get ruined, as I did get to see the show, and it was just as well worth all of this wild ride.
+As I did get to watch the event, before it is maybe lost through the sands of time.
 
