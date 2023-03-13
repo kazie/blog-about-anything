@@ -45,12 +45,15 @@ But here I was, with my [Arch Linux](https://archlinux.org/), in deep metaphysic
 I set it up using the `system-config-printer` program, elevated as `sudo` - since hey I don't know if all i need is the `lp` group or whatever ...
 
 First, you want to use the big and obvious _Add_ button
+
 ![](./img/print1.png)
 
 Then at the Magello office, find the damn printer while logged into the office network, at `192.168.1.197`.
+
 ![](./img/print2.png)
 
 Then after pressing a lot of next buttons, you should have gotten the correct drivers, maybe the `PXL` driver even and have a printer ready for printing - test by pressing `Print Test Page`.
+
 ![](./img/print3.png)
 
 #### When everything fails...
