@@ -6,7 +6,7 @@ published: true
 ## Preamble
 
 You have probably seen them before. Large machines in the office that prints out papers with stuff on them.
-And yeah, we do live in the 21'st century - and we still have the need of printers - I know, I am shocked as well.
+And yeah, we do live in the 21st century - and we still have the need of printers - I know, I am shocked as well.
 
 These machines usually [don't bring joy](https://theoatmeal.com/comics/printers) to anyone who dares to touch them.
 But still we have to use them every once in a while. 
@@ -29,7 +29,7 @@ But here I was, with my [Arch Linux](https://archlinux.org/), in deep metaphysic
 
 ### TL;DR 🥷
 
-> Here is a small guide for people, at least employed in the same company as me with an _arch linux_ distribution to allow printing of documents in the office.
+> Here is a small guide for people, at least employed in the same company as me with an _Arch Linux_ distribution to allow printing of documents in the office.
 
 1. Install [`CUPS`](https://wiki.archlinux.org/title/CUPS)
 2. Enable/Start [`CUPS`](https://wiki.archlinux.org/title/CUPS) (and/or the socket-service)
@@ -39,15 +39,15 @@ But here I was, with my [Arch Linux](https://archlinux.org/), in deep metaphysic
 6. Install [`system-config-printer`](https://github.com/OpenPrinting/system-config-printer) for easier management and adding things like printers.
 7. (optional?) Install [`foomatic-db*`]() drivers, open source drivers.
 
-*Damn* that's a lot of things to install, and maybe some of them are not even neccesary - but that's what it took for me to make it work!
+*Damn* that's a lot of things to install, and maybe some of them are not even necessary - but that's what it took for me to make it work!
 
 #### Setup the printer
-I set it up using the `system-config-printer` program, elevated as sudo - since hey I don't know if all i need is the `lp` group or whatever ...
+I set it up using the `system-config-printer` program, elevated as `sudo` - since hey I don't know if all i need is the `lp` group or whatever ...
 
 First, you want to use the big and obvious _Add_ button
 ![](./img/print1.png)
 
-Then at the magello office, find the damn printer while logged into the office network, at `192.168.1.197`.
+Then at the Magello office, find the damn printer while logged into the office network, at `192.168.1.197`.
 ![](./img/print2.png)
 
 Then after pressing a lot of next buttons, you should have gotten the correct drivers, maybe the `PXL` driver even and have a printer ready for printing - test by pressing `Print Test Page`.
