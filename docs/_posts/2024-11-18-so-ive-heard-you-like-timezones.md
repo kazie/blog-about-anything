@@ -43,7 +43,7 @@ Before leaving home, I grabbed myself a good-luck KitKat:
 
 ![good luck kitkat](./img/kitto.jpg)
 
-> キット、できる！[kitto, dekiru!]
+> キット、できる！[kitto, dekiru!]  
 > For sure, you can do it! / I know, I can do it!
 
 If I don't believe in myself, I can at least believe in this tiny chocolate confectionary that believes in me. And simply, that's all I need - since I have prepared for this day and this talk a lot already.
