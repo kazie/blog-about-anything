@@ -1,5 +1,5 @@
 ---
-title: So, I've heard you like timezones?
+title: So, I've heard you like timezones 🗺️
 published: true
 ---
 
@@ -15,11 +15,11 @@ I sent it in, and to my amazement - later I got the response that my talk got ac
 
 Apparently it was one of the 17 accepted talks, and they have had maybe 80 proposals in total...?
 
-## PyCon Sweden 2024 🐍🇸🇪
+## PyCon Sweden 2024 🐍 🇸🇪
 
 > The convention was really nice. Many good talks, nice people to talk to, great fika and food. All around I would say a really good convention!
 
-![photo of speakers for pycon, 2024](../img/pycon-speakers-2024.png)
+![photo of speakers for pycon, 2024](./img/pycon-speakers-2024.png)
 
 > Official photograph of speakers for the convention, taken during Day 1.
 
@@ -41,7 +41,7 @@ After, I got invited for a beer at a close-by pub, to talk with some of board an
 The first day, was surely the most important day for me. As this day, I would hold a talk myself at 16:30, on the main stage.  
 Before leaving home, I grabbed myself a good-luck KitKat:
 
-![good luck kitkat](../img/kitto.jpg)
+![good luck kitkat](./img/kitto.jpg)
 
 > キット、できる！[kitto, dekiru!]
 > For sure, you can do it! / I know, I can do it!
@@ -57,18 +57,18 @@ Then there was a talk by a [Christian Heitzmann about documentation](https://pre
 
 Those were the talks of the day that really spoke to me, except you know, I am biased here and of course my own is the apex of the whole day... 😅
 
-#### It's About Time ⏰
+### It's About Time ⏰
 
 My talk, I call ["It's About Time"](https://pretalx.com/pyconse-2024/talk/QHFSDN/) - as both the talk is literary about time, and I think it is figuratively about time for my talk.
 
 The prior talk ended a bit early, so there was some dead time - just like the audience was somewhat tired too. I had an idea earlier, which I executed, which was that I wanted to do a "call-and-response". As it was the first time for real on a big stage like this, I wanted to try it out.
 
 
-> Ok, everybody. I want to try this thing... (I don't remember verbatim)
-> When I say "It's about", I want you to shout "TIME".
-> Ready?
-> > It's About...
-> > **Time!**
+> Ok, everybody. I want to try this thing... (I don't remember verbatim)  
+> When I say "It's about", I want you to shout "TIME".  
+> Ready?  
+> > It's About...  
+> > **Time!**  
 
 And my presentation was off, changing to the first slide which simply has the title - "It's About Time".
 
@@ -91,7 +91,7 @@ Some of the great talks of this day were:
 
 Of course, there was many other great talks, but these things came to my mind for the second day!
 
-#### The After-Con 🍻
+### The After-Con 🍻
 
 After the convention there was a few people going to the bar "Amici Nostri" close by. The organisers had booked their cellar location where we got to have some beers and eat some burgers. I talked with many in the board, and they are all social and fun people - but I did not fall in "the trap" to join the board for PyCon Sweden - at least not this time.
 
