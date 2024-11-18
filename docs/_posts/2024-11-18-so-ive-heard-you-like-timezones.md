@@ -15,7 +15,7 @@ I sent it in, and to my amazement - later I got the response that my talk got ac
 
 Apparently it was one of the 17 accepted talks, and they have had maybe 80 proposals in total...?
 
-## PyCon Sweden 2024 🐍 🇸🇪
+## PyCon Sweden 2024 🐍🇸🇪
 
 > The convention was really nice. Many good talks, nice people to talk to, great fika and food. All around I would say a really good convention!
 
@@ -67,8 +67,8 @@ The prior talk ended a bit early, so there was some dead time - just like the au
 > Ok, everybody. I want to try this thing... (I don't remember verbatim)  
 > When I say "It's about", I want you to shout "TIME".  
 > Ready?  
-> > It's About...  
-> > **Time!**  
+> > _Me:_ It's About...  
+> > _Audience:_ **Time!**  
 
 And my presentation was off, changing to the first slide which simply has the title - "It's About Time".
 
