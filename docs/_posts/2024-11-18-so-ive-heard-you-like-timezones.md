@@ -1,6 +1,6 @@
 ---
 title: So, I've heard you like timezones?
-published: false
+published: true
 ---
 
 ## Prologue
@@ -28,7 +28,7 @@ Apparently it was one of the 17 accepted talks, and they have had maybe 80 propo
 The day before I did get to do some final, yet important preparations.  
 I wanted to prepare myself both mentally and physically - thus I went to the barber to shave off some of my beard in order to make me look as respectable as possible. I also painted my glasses, as some of the colour had fallen off, thus bought and applied black nail-polish in order to not have a metallic surface that would easily reflect light right between my eyes.
 
-I did also get a letter from my Japanese Penpal that made me very happy, she had also attached some gifts, where as some of them were some matcha flavoured KitKat's.  
+I did also get a letter from my Japanese pen-pal that made me very happy, she had also attached some gifts, where as some of them were some matcha flavoured KitKat's.  
 KitKat's are popular in Japan, especially as they accidentally cognate "Kitto Katsu (きっと勝つ)", which would be "You will surely win", and thus can be used as good luck charms.
 
 Later towards the evening I went to where the convention was to be held, at Clarion Hotel Stockholm (Skanstull). Here I met some other somewhat nervous speakers, and we did get to test out that the HDMI seemed to works for presenting, as well as feel the size and scope of the room.
@@ -43,7 +43,7 @@ Before leaving home, I grabbed myself a good-luck KitKat:
 
 ![good luck kitkat](../img/kitto.jpg)
 
-> [kitto, dekiru!]
+> キット、できる！[kitto, dekiru!]
 > For sure, you can do it! / I know, I can do it!
 
 If I don't believe in myself, I can at least believe in this tiny chocolate confectionary that believes in me. And simply, that's all I need - since I have prepared for this day and this talk a lot already.
@@ -57,7 +57,7 @@ Then there was a talk by a [Christian Heitzmann about documentation](https://pre
 
 Those were the talks of the day that really spoke to me, except you know, I am biased here and of course my own is the apex of the whole day... 😅
 
-#### It's About Time
+#### It's About Time ⏰
 
 My talk, I call ["It's About Time"](https://pretalx.com/pyconse-2024/talk/QHFSDN/) - as both the talk is literary about time, and I think it is figuratively about time for my talk.
 
@@ -77,6 +77,7 @@ I think that I did wake up the audience a bit with the shouting, and could keep 
 At the end of my talk, there was a somewhat unusually long question round, with many people asking questions - this must mean that they were engaged, right?  
 Afterwards there were also people seeking me out to ask some questions in private - and from this, I can only say that my talk must have been a real success - even some people calling it the best talk of the whole day!! 🥹
 
+> Every time people tell me that they really liked my talk, I get a little teary eyed in secret - I am happy that I can make a difference - and maybe lead to less time-based bugs out in the world. 🌍
 
 ### The second day 
 
@@ -91,3 +92,15 @@ Some of the great talks of this day were:
 Of course, there was many other great talks, but these things came to my mind for the second day!
 
 #### The After-Con 🍻
+
+After the convention there was a few people going to the bar "Amici Nostri" close by. The organisers had booked their cellar location where we got to have some beers and eat some burgers. I talked with many in the board, and they are all social and fun people - but I did not fall in "the trap" to join the board for PyCon Sweden - at least not this time.
+
+I also talked on the way there with some person, who really liked my talk, and said that they had already started to apprehend problems with timezones in their codes - as they now have gotten a clear view and know what they need to be fixing to have good timezone code, and `date-time` at the correct RFC 3339 format in their API's.
+
+I also talked a bit to Cristián that I mentioned earlier, he really liked my talk and strongly recommended me to apply the talk to EuroPython, as he believes in me and my talk - and that it would possibly be very good to have at Europe's biggest python conference. I think that I need to rename it, and juggle some slides - but clearly believe that I should send it in as a _CFP_ in February or whenever they open.
+
+And it was not only him, a lot of other people were very supportive and wanted to encourage me to continue do public speeches like the one I had. I really want to thank everyone in the python community to be so encouraging welcoming to me. I hope that I will be able to do more speeches and spread important information like I have tried to do now!
+
+> Hope that I can get to EuroPycon, that would be really damn amazingly cool if so!!
+
+That's all I want to jot down for this time onto the blog, peace out ✌️
